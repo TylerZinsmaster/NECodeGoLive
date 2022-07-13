@@ -21,6 +21,8 @@ namespace DataAccess.Data
 
         public int Doors { get; set; }
 
+        public bool IsAutomatic { get; set; } = true;
+
         public bool IsElectric { get; set; }
 
         public int FuelEfficiencyCity { get; set; }
