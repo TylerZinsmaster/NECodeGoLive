@@ -1,0 +1,10 @@
+﻿global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using System.Threading.Tasks;
+global using ViewModels;
+global using System;
+global using Business.Interfaces;
+global using DataAccess.Data;
+global using AutoMapper;
+global using Microsoft.EntityFrameworkCore;
